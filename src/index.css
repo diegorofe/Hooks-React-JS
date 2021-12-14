@@ -12,6 +12,11 @@ button {
   margin-left: 5px;
 }
 
+.buttonItem :hover{
+  background: rgb(180, 17, 17);
+  color: aliceblue;
+}
+
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
